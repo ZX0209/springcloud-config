@@ -1,6 +1,6 @@
 # config-dev.yml
 config:
-  info: "helloooo,dev foooool"
+  info: "helloooo,dev foooool,1"
 xx:
   yy:
     zz: hellooo
